@@ -1,0 +1,147 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #FBF6E9;
+  --color-paper-deep: #F3EAD3;
+  --color-rule: #E2D6B8;
+  --color-ink: #1A1A1A;
+  --color-muted-ink: #6B645A;
+  --color-turmeric: #E8A317;
+  --color-ledger-red: #A8231B;
+  --color-tulsi-green: #2E7D4F;
+  --color-pen-blue: #23408E;
+  --color-night-slip: #1C1B18;
+  --color-night-ink: #F4EEDD;
+
+  --font-serif: var(--font-fraunces), Georgia, serif;
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains-mono), monospace;
+  --font-devanagari: var(--font-devanagari), sans-serif;
+}
+
+:root {
+  --paper: #FBF6E9;
+  --paper-deep: #F3EAD3;
+  --rule: #E2D6B8;
+  --ink: #1A1A1A;
+  --muted-ink: #6B645A;
+  --turmeric: #E8A317;
+  --ledger-red: #A8231B;
+  --tulsi-green: #2E7D4F;
+  --pen-blue: #23408E;
+}
+
+body {
+  color: var(--ink);
+  background-color: #FBF6E9;
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent 0px,
+    transparent 31px,
+    #E2D6B8 31px,
+    #E2D6B8 32px
+  );
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+/* Tabular figures for all financial amounts */
+.tabular-numbers {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum";
+}
+
+/* Neo-brutalist bahi-khata card styling */
+.bahi-card {
+  background-color: #FFFFFF;
+  border: 2px solid #1A1A1A;
+  border-radius: 10px;
+  box-shadow: 3px 3px 0px #1A1A1A;
+}
+
+/* Tactile neo-brutalist buttons */
+.bahi-btn-primary {
+  background-color: #E8A317;
+  color: #1A1A1A;
+  border: 2px solid #1A1A1A;
+  border-radius: 8px;
+  font-weight: 700;
+  box-shadow: 3px 3px 0px #1A1A1A;
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
+
+.bahi-btn-primary:hover:not(:disabled) {
+  transform: translate(1px, 1px);
+  box-shadow: 2px 2px 0px #1A1A1A;
+}
+
+.bahi-btn-primary:active:not(:disabled) {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0px #1A1A1A;
+}
+
+.bahi-btn-secondary {
+  background-color: #FFFFFF;
+  color: #1A1A1A;
+  border: 1.5px solid #1A1A1A;
+  border-radius: 8px;
+  font-weight: 600;
+  box-shadow: 3px 3px 0px #1A1A1A;
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
+
+.bahi-btn-secondary:hover:not(:disabled) {
+  transform: translate(1px, 1px);
+  box-shadow: 2px 2px 0px #1A1A1A;
+}
+
+.bahi-btn-secondary:active:not(:disabled) {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0px #1A1A1A;
+}
+
+/* Bahi-khata double red margin line on desktop */
+@media (min-width: 1024px) {
+  .ledger-margin-line {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 48px;
+    width: 6px;
+    border-left: 1.5px solid #A8231B;
+    border-right: 1.5px solid #A8231B;
+    pointer-events: none;
+    z-index: 40;
+    opacity: 0.7;
+  }
+}
+
+/* Diagonal hatched progress bar for loading & charts */
+.hatch-pattern {
+  background-image: repeating-linear-gradient(
+    45deg,
+    #E8A317,
+    #E8A317 8px,
+    #D97706 8px,
+    #D97706 16px
+  );
+}
+
+.hatch-red-pattern {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    #A8231B,
+    #A8231B 4px,
+    #FFFFFF 4px,
+    #FFFFFF 8px
+  );
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

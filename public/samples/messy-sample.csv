@@ -1,0 +1,39 @@
+Date,Particulars,Amount,Type,Mode
+01/09/2024,Dairy Milk Pouch,₹ 1,450.00,sale,UPI
+01-09-24,Morning Groceries,"Rs. 3,200",credit,Cash
+2024-09-02,Milk Vendor Delivery,(1200),debit,Cash
+02/09/2024,Packaged Atta 10kg,850,Income,GPay
+03/09/2024,Sugar Bags 50kg,-4500,,PhonePe
+,Invalid empty row,,,
+04/09/2024,Cold Drinks & Ice Cream,₹2,100,sale,UPI
+04-09-2024,Electricity Bill,1850,EXPENSE,NetBanking
+05/09/24,Daily Biscuits Sale,"1,120",CR,Cash
+06/09/2024,Store Plastic Bags,350,Purchase,Cash
+07/09/2024,Edible Oil Tins,₹ 5,800.00,sale,Card
+08/09/2024,Weekend Grocery Rush,4950,sale,UPI
+09/09/2024,Spices & Masala,₹1,650,Income,cash
+10/09/2024,Wholesale Pulses,₹-8,200,expense,UPI
+11/09/2024,Amul Butter & Paneer,1450,Cr,PhonePe
+12/09/2024,Shop Cleaning Supply,240,Dr,Cash
+13/09/2024,Soap & Shampoo Sale,₹ 1,890,sale,UPI
+14/09/2024,Festival Prep Rush,"7,450",sale,UPI
+15/09/2024,Snacks & Wafers,2300,sale,cash
+16/09/2024,Refrigeration Repair,-1500,expense,Cash
+17/09/2024,Tuesday Loose Grain,₹ 980,sale,Cash
+18/09/2024,Rice 25kg Bag,"1,850",Credit,UPI
+19/09/2024,Tea Powder & Jaggery,1250,sale,GPay
+20/09/2024,Weekly Vegetable Bill,-3200,debit,cash
+21/09/2024,Weekend Bulk Purchase,6200,sale,Card
+22/09/2024,General Kirana Counter,4100,sale,UPI
+23/09/2024,Detergent Box Offer,1950,sale,Cash
+24/09/2024,Tuesday Slow Counter,₹ 850,CR,UPI
+25/09/2024,Wholesale Stock Payment,-12000,expense,Cheque
+26/09/2024,Snack Distributors,1400,sale,Cash
+27/09/2024,Dairy Products,2100,sale,UPI
+28/09/2024,Monthly Helper Pay,-8000,expense,Cash
+29/09/2024,Sunday Festival Spurt,"9,850",sale,UPI
+30/09/2024,Month End Counter Sale,4500,sale,Cash
+01/10/2024,Shop Rent Advance,-14000,expense,UPI
+02/10/2024,Gandhi Jayanti Sales,3200,sale,Cash
+03/10/2024,Packaged Sweets,₹ 2,800,sale,UPI
+04/10/2024,Counter Bill,1600,sale,Cash

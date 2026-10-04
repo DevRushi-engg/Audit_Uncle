@@ -1,0 +1,258 @@
+Date,Particulars,Category,Payment_Mode,Type,Amount
+2024-01-01,"Packaged Groceries Retail Sale #1",Packaged Groceries,UPI,Sale,350
+2024-01-01,"Dairy & Milk Retail Sale #2",Dairy & Milk,Cash,Sale,173
+2024-01-01,"Snacks & Cold Drinks Retail Sale #3",Snacks & Cold Drinks,UPI,Sale,186
+2024-01-01,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #4",Grains & Pulses (Atta/Rice/Dal),Cash,Sale,759
+2024-01-01,"Cooking Oil & Ghee Retail Sale #5",Cooking Oil & Ghee,Card,Sale,662
+2024-01-01,"Personal & Home Care Retail Sale #6",Personal & Home Care,UPI,Sale,415
+2024-01-01,"Shop Commercial Rent Payment",Rent,Bank Transfer,Expense,18000
+2024-01-02,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #1",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,523
+2024-01-02,"Cooking Oil & Ghee Retail Sale #2",Cooking Oil & Ghee,Cash,Sale,450
+2024-01-02,"Personal & Home Care Retail Sale #3",Personal & Home Care,Card,Sale,265
+2024-01-02,"Spices & Condiments Retail Sale #4",Spices & Condiments,UPI,Sale,267
+2024-01-02,"Packaged Groceries Retail Sale #5",Packaged Groceries,UPI,Sale,494
+2024-01-02,"Dairy & Milk Retail Sale #6",Dairy & Milk,UPI,Sale,362
+2024-01-02,"Snacks & Cold Drinks Retail Sale #7",Snacks & Cold Drinks,Cash,Sale,371
+2024-01-03,"Spices & Condiments Retail Sale #1",Spices & Condiments,Card,Sale,294
+2024-01-03,"Packaged Groceries Retail Sale #2",Packaged Groceries,UPI,Sale,597
+2024-01-03,"Dairy & Milk Retail Sale #3",Dairy & Milk,UPI,Sale,420
+2024-01-03,"Snacks & Cold Drinks Retail Sale #4",Snacks & Cold Drinks,UPI,Sale,433
+2024-01-03,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #5",Grains & Pulses (Atta/Rice/Dal),Cash,Sale,1006
+2024-01-03,"Cooking Oil & Ghee Retail Sale #6",Cooking Oil & Ghee,UPI,Sale,909
+2024-01-03,"Personal & Home Care Retail Sale #7",Personal & Home Care,Cash,Sale,662
+2024-01-03,"Spices & Condiments Retail Sale #8",Spices & Condiments,Card,Sale,665
+2024-01-04,"Snacks & Cold Drinks Retail Sale #1",Snacks & Cold Drinks,UPI,Sale,371
+2024-01-04,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #2",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,944
+2024-01-04,"Cooking Oil & Ghee Retail Sale #3",Cooking Oil & Ghee,Cash,Sale,847
+2024-01-04,"Personal & Home Care Retail Sale #4",Personal & Home Care,UPI,Sale,600
+2024-01-04,"Spices & Condiments Retail Sale #5",Spices & Condiments,Cash,Sale,603
+2024-01-04,"Packaged Groceries Retail Sale #6",Packaged Groceries,Card,Sale,906
+2024-01-04,"Dairy & Milk Retail Sale #7",Dairy & Milk,UPI,Sale,729
+2024-01-04,"Snacks & Cold Drinks Retail Sale #8",Snacks & Cold Drinks,UPI,Sale,172
+2024-01-04,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #9",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,1315
+2024-01-04,"Wholesale FMCG & Grain Restocking",Supplier Inventory,UPI,Expense,16141
+2024-01-05,"Personal & Home Care Retail Sale #1",Personal & Home Care,Cash,Sale,538
+2024-01-05,"Spices & Condiments Retail Sale #2",Spices & Condiments,UPI,Sale,541
+2024-01-05,"Packaged Groceries Retail Sale #3",Packaged Groceries,Cash,Sale,844
+2024-01-05,"Dairy & Milk Retail Sale #4",Dairy & Milk,Card,Sale,667
+2024-01-05,"Snacks & Cold Drinks Retail Sale #5",Snacks & Cold Drinks,UPI,Sale,110
+2024-01-05,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #6",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,1253
+2024-01-05,"Cooking Oil & Ghee Retail Sale #7",Cooking Oil & Ghee,UPI,Sale,1156
+2024-01-05,"Personal & Home Care Retail Sale #8",Personal & Home Care,Cash,Sale,909
+2024-01-05,"Spices & Condiments Retail Sale #9",Spices & Condiments,UPI,Sale,912
+2024-01-05,"Packaged Groceries Retail Sale #10",Packaged Groceries,Cash,Sale,1215
+2024-01-05,"Counter Staff Salary (Ramesh)",Staff Salaries,Cash,Expense,12000
+2024-01-05,"Delivery Assistant Salary (Suresh)",Staff Salaries,UPI,Expense,9500
+2024-01-06,"Dairy & Milk Retail Sale #1",Dairy & Milk,Cash,Sale,787
+2024-01-06,"Snacks & Cold Drinks Retail Sale #2",Snacks & Cold Drinks,Card,Sale,803
+2024-01-06,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #3",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,1548
+2024-01-06,"Cooking Oil & Ghee Retail Sale #4",Cooking Oil & Ghee,UPI,Sale,1422
+2024-01-06,"Personal & Home Care Retail Sale #5",Personal & Home Care,UPI,Sale,1101
+2024-01-06,"Spices & Condiments Retail Sale #6",Spices & Condiments,Cash,Sale,1105
+2024-01-07,"Cooking Oil & Ghee Retail Sale #1",Cooking Oil & Ghee,UPI,Sale,1342
+2024-01-07,"Personal & Home Care Retail Sale #2",Personal & Home Care,UPI,Sale,1021
+2024-01-07,"Spices & Condiments Retail Sale #3",Spices & Condiments,UPI,Sale,1024
+2024-01-07,"Packaged Groceries Retail Sale #4",Packaged Groceries,Cash,Sale,1418
+2024-01-07,"Dairy & Milk Retail Sale #5",Dairy & Milk,UPI,Sale,239
+2024-01-07,"Snacks & Cold Drinks Retail Sale #6",Snacks & Cold Drinks,Cash,Sale,464
+2024-01-07,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #7",Grains & Pulses (Atta/Rice/Dal),Card,Sale,1950
+2024-01-08,"Packaged Groceries Retail Sale #1",Packaged Groceries,UPI,Sale,1029
+2024-01-08,"Dairy & Milk Retail Sale #2",Dairy & Milk,Cash,Sale,122
+2024-01-08,"Snacks & Cold Drinks Retail Sale #3",Snacks & Cold Drinks,UPI,Sale,295
+2024-01-08,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #4",Grains & Pulses (Atta/Rice/Dal),Cash,Sale,1438
+2024-01-08,"Cooking Oil & Ghee Retail Sale #5",Cooking Oil & Ghee,Card,Sale,1341
+2024-01-08,"Personal & Home Care Retail Sale #6",Personal & Home Care,UPI,Sale,1094
+2024-01-08,"Spices & Condiments Retail Sale #7",Spices & Condiments,UPI,Sale,247
+2024-01-08,"Packaged Groceries Retail Sale #8",Packaged Groceries,UPI,Sale,1400
+2024-01-09,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #1",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,1032
+2024-01-09,"Cooking Oil & Ghee Retail Sale #2",Cooking Oil & Ghee,Cash,Sale,959
+2024-01-09,"Personal & Home Care Retail Sale #3",Personal & Home Care,Card,Sale,774
+2024-01-09,"Spices & Condiments Retail Sale #4",Spices & Condiments,UPI,Sale,139
+2024-01-09,"Packaged Groceries Retail Sale #5",Packaged Groceries,UPI,Sale,1004
+2024-01-09,"Dairy & Milk Retail Sale #6",Dairy & Milk,UPI,Sale,323
+2024-01-09,"Snacks & Cold Drinks Retail Sale #7",Snacks & Cold Drinks,Cash,Sale,453
+2024-01-09,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #8",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,1310
+2024-01-09,"Cooking Oil & Ghee Retail Sale #9",Cooking Oil & Ghee,Cash,Sale,1238
+2024-01-10,"Spices & Condiments Retail Sale #1",Spices & Condiments,Card,Sale,123
+2024-01-10,"Packaged Groceries Retail Sale #2",Packaged Groceries,UPI,Sale,1276
+2024-01-10,"Dairy & Milk Retail Sale #3",Dairy & Milk,UPI,Sale,369
+2024-01-10,"Snacks & Cold Drinks Retail Sale #4",Snacks & Cold Drinks,UPI,Sale,542
+2024-01-10,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #5",Grains & Pulses (Atta/Rice/Dal),Cash,Sale,1685
+2024-01-10,"Cooking Oil & Ghee Retail Sale #6",Cooking Oil & Ghee,UPI,Sale,1588
+2024-01-10,"Personal & Home Care Retail Sale #7",Personal & Home Care,Cash,Sale,1341
+2024-01-10,"Spices & Condiments Retail Sale #8",Spices & Condiments,Card,Sale,494
+2024-01-10,"Packaged Groceries Retail Sale #9",Packaged Groceries,UPI,Sale,1647
+2024-01-10,"Dairy & Milk Retail Sale #10",Dairy & Milk,UPI,Sale,740
+2024-01-10,"Commercial Electricity Bill (MSEDCL)",Utilities,UPI,Expense,3967
+2024-01-11,"Snacks & Cold Drinks Retail Sale #1",Snacks & Cold Drinks,UPI,Sale,480
+2024-01-11,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #2",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,1623
+2024-01-11,"Cooking Oil & Ghee Retail Sale #3",Cooking Oil & Ghee,Cash,Sale,1526
+2024-01-11,"Personal & Home Care Retail Sale #4",Personal & Home Care,UPI,Sale,1279
+2024-01-11,"Spices & Condiments Retail Sale #5",Spices & Condiments,Cash,Sale,432
+2024-01-11,"Packaged Groceries Retail Sale #6",Packaged Groceries,Card,Sale,1585
+2024-01-11,"Wholesale FMCG & Grain Restocking",Supplier Inventory,UPI,Expense,16470
+2024-01-12,"Personal & Home Care Retail Sale #1",Personal & Home Care,Cash,Sale,1217
+2024-01-12,"Spices & Condiments Retail Sale #2",Spices & Condiments,UPI,Sale,370
+2024-01-12,"Packaged Groceries Retail Sale #3",Packaged Groceries,Cash,Sale,1523
+2024-01-12,"Dairy & Milk Retail Sale #4",Dairy & Milk,Card,Sale,616
+2024-01-12,"Snacks & Cold Drinks Retail Sale #5",Snacks & Cold Drinks,UPI,Sale,219
+2024-01-12,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #6",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,1932
+2024-01-12,"Cooking Oil & Ghee Retail Sale #7",Cooking Oil & Ghee,UPI,Sale,1835
+2024-01-13,"Dairy & Milk Retail Sale #1",Dairy & Milk,Cash,Sale,720
+2024-01-13,"Snacks & Cold Drinks Retail Sale #2",Snacks & Cold Drinks,Card,Sale,204
+2024-01-13,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #3",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,2431
+2024-01-13,"Cooking Oil & Ghee Retail Sale #4",Cooking Oil & Ghee,UPI,Sale,2305
+2024-01-13,"Personal & Home Care Retail Sale #5",Personal & Home Care,UPI,Sale,359
+2024-01-13,"Spices & Condiments Retail Sale #6",Spices & Condiments,Cash,Sale,883
+2024-01-13,"Packaged Groceries Retail Sale #7",Packaged Groceries,UPI,Sale,2382
+2024-01-13,"Dairy & Milk Retail Sale #8",Dairy & Milk,Cash,Sale,254
+2024-01-14,"Cooking Oil & Ghee Retail Sale #1",Cooking Oil & Ghee,UPI,Sale,2224
+2024-01-14,"Personal & Home Care Retail Sale #2",Personal & Home Care,UPI,Sale,278
+2024-01-14,"Spices & Condiments Retail Sale #3",Spices & Condiments,UPI,Sale,802
+2024-01-14,"Packaged Groceries Retail Sale #4",Packaged Groceries,Cash,Sale,2301
+2024-01-14,"Dairy & Milk Retail Sale #5",Dairy & Milk,UPI,Sale,173
+2024-01-14,"Snacks & Cold Drinks Retail Sale #6",Snacks & Cold Drinks,Cash,Sale,606
+2024-01-14,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #7",Grains & Pulses (Atta/Rice/Dal),Card,Sale,2833
+2024-01-14,"Cooking Oil & Ghee Retail Sale #8",Cooking Oil & Ghee,UPI,Sale,2707
+2024-01-14,"Personal & Home Care Retail Sale #9",Personal & Home Care,UPI,Sale,761
+2024-01-14,"Amul & Gokul Dairy Supplier Settlement",Dairy Restock,UPI,Expense,6747
+2024-01-15,"Packaged Groceries Retail Sale #1",Packaged Groceries,UPI,Sale,1708
+2024-01-15,"Dairy & Milk Retail Sale #2",Dairy & Milk,Cash,Sale,801
+2024-01-15,"Snacks & Cold Drinks Retail Sale #3",Snacks & Cold Drinks,UPI,Sale,404
+2024-01-15,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #4",Grains & Pulses (Atta/Rice/Dal),Cash,Sale,2117
+2024-01-15,"Cooking Oil & Ghee Retail Sale #5",Cooking Oil & Ghee,Card,Sale,2020
+2024-01-15,"Personal & Home Care Retail Sale #6",Personal & Home Care,UPI,Sale,523
+2024-01-15,"Spices & Condiments Retail Sale #7",Spices & Condiments,UPI,Sale,926
+2024-01-15,"Packaged Groceries Retail Sale #8",Packaged Groceries,UPI,Sale,2079
+2024-01-15,"Dairy & Milk Retail Sale #9",Dairy & Milk,Cash,Sale,442
+2024-01-15,"Snacks & Cold Drinks Retail Sale #10",Snacks & Cold Drinks,UPI,Sale,205
+2024-01-15,"Broadband Internet & Landline",Utilities,UPI,Expense,1180
+2024-01-16,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #1",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,1541
+2024-01-16,"Cooking Oil & Ghee Retail Sale #2",Cooking Oil & Ghee,Cash,Sale,1469
+2024-01-16,"Personal & Home Care Retail Sale #3",Personal & Home Care,Card,Sale,346
+2024-01-16,"Spices & Condiments Retail Sale #4",Spices & Condiments,UPI,Sale,648
+2024-01-16,"Packaged Groceries Retail Sale #5",Packaged Groceries,UPI,Sale,1513
+2024-01-16,"Dairy & Milk Retail Sale #6",Dairy & Milk,UPI,Sale,285
+2024-01-17,"Spices & Condiments Retail Sale #1",Spices & Condiments,Card,Sale,802
+2024-01-17,"Packaged Groceries Retail Sale #2",Packaged Groceries,UPI,Sale,1955
+2024-01-17,"Dairy & Milk Retail Sale #3",Dairy & Milk,UPI,Sale,318
+2024-01-17,"Snacks & Cold Drinks Retail Sale #4",Snacks & Cold Drinks,UPI,Sale,81
+2024-01-17,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #5",Grains & Pulses (Atta/Rice/Dal),Cash,Sale,2364
+2024-01-17,"Cooking Oil & Ghee Retail Sale #6",Cooking Oil & Ghee,UPI,Sale,2267
+2024-01-17,"Personal & Home Care Retail Sale #7",Personal & Home Care,Cash,Sale,770
+2024-01-18,"Snacks & Cold Drinks Retail Sale #1",Snacks & Cold Drinks,UPI,Sale,589
+2024-01-18,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #2",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,2302
+2024-01-18,"Cooking Oil & Ghee Retail Sale #3",Cooking Oil & Ghee,Cash,Sale,2205
+2024-01-18,"Personal & Home Care Retail Sale #4",Personal & Home Care,UPI,Sale,708
+2024-01-18,"Spices & Condiments Retail Sale #5",Spices & Condiments,Cash,Sale,261
+2024-01-18,"Packaged Groceries Retail Sale #6",Packaged Groceries,Card,Sale,414
+2024-01-18,"Dairy & Milk Retail Sale #7",Dairy & Milk,UPI,Sale,627
+2024-01-18,"Snacks & Cold Drinks Retail Sale #8",Snacks & Cold Drinks,UPI,Sale,390
+2024-01-18,"Wholesale FMCG & Grain Restocking",Supplier Inventory,UPI,Expense,16799
+2024-01-19,"Personal & Home Care Retail Sale #1",Personal & Home Care,Cash,Sale,646
+2024-01-19,"Spices & Condiments Retail Sale #2",Spices & Condiments,UPI,Sale,199
+2024-01-19,"Packaged Groceries Retail Sale #3",Packaged Groceries,Cash,Sale,352
+2024-01-19,"Dairy & Milk Retail Sale #4",Dairy & Milk,Card,Sale,565
+2024-01-19,"Snacks & Cold Drinks Retail Sale #5",Snacks & Cold Drinks,UPI,Sale,328
+2024-01-19,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #6",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,2611
+2024-01-19,"Cooking Oil & Ghee Retail Sale #7",Cooking Oil & Ghee,UPI,Sale,2514
+2024-01-19,"Personal & Home Care Retail Sale #8",Personal & Home Care,Cash,Sale,1017
+2024-01-19,"Spices & Condiments Retail Sale #9",Spices & Condiments,UPI,Sale,570
+2024-01-20,"Dairy & Milk Retail Sale #1",Dairy & Milk,Cash,Sale,654
+2024-01-20,"Snacks & Cold Drinks Retail Sale #2",Snacks & Cold Drinks,Card,Sale,346
+2024-01-20,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #3",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,3314
+2024-01-20,"Cooking Oil & Ghee Retail Sale #4",Cooking Oil & Ghee,UPI,Sale,3188
+2024-01-20,"Personal & Home Care Retail Sale #5",Personal & Home Care,UPI,Sale,1242
+2024-01-20,"Spices & Condiments Retail Sale #6",Spices & Condiments,Cash,Sale,660
+2024-01-20,"Packaged Groceries Retail Sale #7",Packaged Groceries,UPI,Sale,859
+2024-01-20,"Dairy & Milk Retail Sale #8",Dairy & Milk,Cash,Sale,187
+2024-01-20,"Snacks & Cold Drinks Retail Sale #9",Snacks & Cold Drinks,Card,Sale,828
+2024-01-20,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #10",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,3796
+2024-01-21,"Cooking Oil & Ghee Retail Sale #1",Cooking Oil & Ghee,UPI,Sale,3107
+2024-01-21,"Personal & Home Care Retail Sale #2",Personal & Home Care,UPI,Sale,1161
+2024-01-21,"Spices & Condiments Retail Sale #3",Spices & Condiments,UPI,Sale,580
+2024-01-21,"Packaged Groceries Retail Sale #4",Packaged Groceries,Cash,Sale,779
+2024-01-21,"Dairy & Milk Retail Sale #5",Dairy & Milk,UPI,Sale,1056
+2024-01-21,"Snacks & Cold Drinks Retail Sale #6",Snacks & Cold Drinks,Cash,Sale,748
+2024-01-22,"Packaged Groceries Retail Sale #1",Packaged Groceries,UPI,Sale,537
+2024-01-22,"Dairy & Milk Retail Sale #2",Dairy & Milk,Cash,Sale,750
+2024-01-22,"Snacks & Cold Drinks Retail Sale #3",Snacks & Cold Drinks,UPI,Sale,513
+2024-01-22,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #4",Grains & Pulses (Atta/Rice/Dal),Cash,Sale,2796
+2024-01-22,"Cooking Oil & Ghee Retail Sale #5",Cooking Oil & Ghee,Card,Sale,2699
+2024-01-22,"Personal & Home Care Retail Sale #6",Personal & Home Care,UPI,Sale,1202
+2024-01-22,"Spices & Condiments Retail Sale #7",Spices & Condiments,UPI,Sale,755
+2024-01-23,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #1",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,2051
+2024-01-23,"Cooking Oil & Ghee Retail Sale #2",Cooking Oil & Ghee,Cash,Sale,1978
+2024-01-23,"Personal & Home Care Retail Sale #3",Personal & Home Care,Card,Sale,855
+2024-01-23,"Spices & Condiments Retail Sale #4",Spices & Condiments,UPI,Sale,520
+2024-01-23,"Packaged Groceries Retail Sale #5",Packaged Groceries,UPI,Sale,635
+2024-01-23,"Dairy & Milk Retail Sale #6",Dairy & Milk,UPI,Sale,247
+2024-01-23,"Snacks & Cold Drinks Retail Sale #7",Snacks & Cold Drinks,Cash,Sale,189
+2024-01-23,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #8",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,2329
+2024-01-24,"Spices & Condiments Retail Sale #1",Spices & Condiments,Card,Sale,631
+2024-01-24,"Packaged Groceries Retail Sale #2",Packaged Groceries,UPI,Sale,784
+2024-01-24,"Dairy & Milk Retail Sale #3",Dairy & Milk,UPI,Sale,267
+2024-01-24,"Snacks & Cold Drinks Retail Sale #4",Snacks & Cold Drinks,UPI,Sale,190
+2024-01-24,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #5",Grains & Pulses (Atta/Rice/Dal),Cash,Sale,3043
+2024-01-24,"Cooking Oil & Ghee Retail Sale #6",Cooking Oil & Ghee,UPI,Sale,596
+2024-01-24,"Personal & Home Care Retail Sale #7",Personal & Home Care,Cash,Sale,199
+2024-01-24,"Spices & Condiments Retail Sale #8",Spices & Condiments,Card,Sale,152
+2024-01-24,"Packaged Groceries Retail Sale #9",Packaged Groceries,UPI,Sale,1155
+2024-01-25,"Snacks & Cold Drinks Retail Sale #1",Snacks & Cold Drinks,UPI,Sale,128
+2024-01-25,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #2",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,2981
+2024-01-25,"Cooking Oil & Ghee Retail Sale #3",Cooking Oil & Ghee,Cash,Sale,534
+2024-01-25,"Personal & Home Care Retail Sale #4",Personal & Home Care,UPI,Sale,1387
+2024-01-25,"Spices & Condiments Retail Sale #5",Spices & Condiments,Cash,Sale,940
+2024-01-25,"Packaged Groceries Retail Sale #6",Packaged Groceries,Card,Sale,1093
+2024-01-25,"Dairy & Milk Retail Sale #7",Dairy & Milk,UPI,Sale,576
+2024-01-25,"Snacks & Cold Drinks Retail Sale #8",Snacks & Cold Drinks,UPI,Sale,499
+2024-01-25,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #9",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,3352
+2024-01-25,"Cooking Oil & Ghee Retail Sale #10",Cooking Oil & Ghee,Cash,Sale,905
+2024-01-25,"Wholesale FMCG & Grain Restocking",Supplier Inventory,UPI,Expense,17128
+2024-01-26,"Personal & Home Care Retail Sale #1",Personal & Home Care,Cash,Sale,1325
+2024-01-26,"Spices & Condiments Retail Sale #2",Spices & Condiments,UPI,Sale,878
+2024-01-26,"Packaged Groceries Retail Sale #3",Packaged Groceries,Cash,Sale,1031
+2024-01-26,"Dairy & Milk Retail Sale #4",Dairy & Milk,Card,Sale,514
+2024-01-26,"Snacks & Cold Drinks Retail Sale #5",Snacks & Cold Drinks,UPI,Sale,437
+2024-01-26,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #6",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,3290
+2024-01-27,"Dairy & Milk Retail Sale #1",Dairy & Milk,Cash,Sale,588
+2024-01-27,"Snacks & Cold Drinks Retail Sale #2",Snacks & Cold Drinks,Card,Sale,488
+2024-01-27,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #3",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,4196
+2024-01-27,"Cooking Oil & Ghee Retail Sale #4",Cooking Oil & Ghee,UPI,Sale,1015
+2024-01-27,"Personal & Home Care Retail Sale #5",Personal & Home Care,UPI,Sale,499
+2024-01-27,"Spices & Condiments Retail Sale #6",Spices & Condiments,Cash,Sale,438
+2024-01-27,"Packaged Groceries Retail Sale #7",Packaged Groceries,UPI,Sale,1742
+2024-01-28,"Cooking Oil & Ghee Retail Sale #1",Cooking Oil & Ghee,UPI,Sale,935
+2024-01-28,"Personal & Home Care Retail Sale #2",Personal & Home Care,UPI,Sale,419
+2024-01-28,"Spices & Condiments Retail Sale #3",Spices & Condiments,UPI,Sale,358
+2024-01-28,"Packaged Groceries Retail Sale #4",Packaged Groceries,Cash,Sale,1661
+2024-01-28,"Dairy & Milk Retail Sale #5",Dairy & Milk,UPI,Sale,989
+2024-01-28,"Snacks & Cold Drinks Retail Sale #6",Snacks & Cold Drinks,Cash,Sale,148
+2024-01-28,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #7",Grains & Pulses (Atta/Rice/Dal),Card,Sale,4598
+2024-01-28,"Cooking Oil & Ghee Retail Sale #8",Cooking Oil & Ghee,UPI,Sale,1417
+2024-01-28,"Amul & Gokul Dairy Supplier Settlement",Dairy Restock,UPI,Expense,7013
+2024-01-29,"Packaged Groceries Retail Sale #1",Packaged Groceries,UPI,Sale,1216
+2024-01-29,"Dairy & Milk Retail Sale #2",Dairy & Milk,Cash,Sale,699
+2024-01-29,"Snacks & Cold Drinks Retail Sale #3",Snacks & Cold Drinks,UPI,Sale,622
+2024-01-29,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #4",Grains & Pulses (Atta/Rice/Dal),Cash,Sale,3475
+2024-01-29,"Cooking Oil & Ghee Retail Sale #5",Cooking Oil & Ghee,Card,Sale,1028
+2024-01-29,"Personal & Home Care Retail Sale #6",Personal & Home Care,UPI,Sale,631
+2024-01-29,"Spices & Condiments Retail Sale #7",Spices & Condiments,UPI,Sale,584
+2024-01-29,"Packaged Groceries Retail Sale #8",Packaged Groceries,UPI,Sale,1587
+2024-01-29,"Dairy & Milk Retail Sale #9",Dairy & Milk,Cash,Sale,340
+2024-01-30,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #1",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,2560
+2024-01-30,"Cooking Oil & Ghee Retail Sale #2",Cooking Oil & Ghee,Cash,Sale,725
+2024-01-30,"Personal & Home Care Retail Sale #3",Personal & Home Care,Card,Sale,427
+2024-01-30,"Spices & Condiments Retail Sale #4",Spices & Condiments,UPI,Sale,392
+2024-01-30,"Packaged Groceries Retail Sale #5",Packaged Groceries,UPI,Sale,1144
+2024-01-30,"Dairy & Milk Retail Sale #6",Dairy & Milk,UPI,Sale,209
+2024-01-30,"Snacks & Cold Drinks Retail Sale #7",Snacks & Cold Drinks,Cash,Sale,271
+2024-01-30,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #8",Grains & Pulses (Atta/Rice/Dal),UPI,Sale,2838
+2024-01-30,"Cooking Oil & Ghee Retail Sale #9",Cooking Oil & Ghee,Cash,Sale,1003
+2024-01-30,"Personal & Home Care Retail Sale #10",Personal & Home Care,Card,Sale,705
+2024-01-31,"Spices & Condiments Retail Sale #1",Spices & Condiments,Card,Sale,460
+2024-01-31,"Packaged Groceries Retail Sale #2",Packaged Groceries,UPI,Sale,1463
+2024-01-31,"Dairy & Milk Retail Sale #3",Dairy & Milk,UPI,Sale,216
+2024-01-31,"Snacks & Cold Drinks Retail Sale #4",Snacks & Cold Drinks,UPI,Sale,299
+2024-01-31,"Grains & Pulses (Atta/Rice/Dal) Retail Sale #5",Grains & Pulses (Atta/Rice/Dal),Cash,Sale,3722
+2024-01-31,"Cooking Oil & Ghee Retail Sale #6",Cooking Oil & Ghee,UPI,Sale,1275

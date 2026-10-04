@@ -1,0 +1,613 @@
+date,amount,type,category,payment_mode
+2024-06-01,1508,sale,Spices & Masalas,upi
+2024-06-01,917,sale,Edible Oils,cash
+2024-06-01,1889,sale,Spices & Masalas,cash
+2024-06-01,1079,sale,Spices & Masalas,upi
+2024-06-01,1203,sale,Dairy & Milk,cash
+2024-06-01,14000,expense,Store Rent,upi
+2024-06-01,8000,expense,Helper Wages,cash
+2024-06-02,548,sale,Packaged Snacks,upi
+2024-06-02,649,sale,Edible Oils,cash
+2024-06-02,1116,sale,Grains & Atta,cash
+2024-06-02,2232,sale,Edible Oils,cash
+2024-06-02,913,sale,Spices & Masalas,cash
+2024-06-03,1119,sale,Grains & Atta,cash
+2024-06-03,1290,sale,Edible Oils,cash
+2024-06-03,1433,sale,Dairy & Milk,cash
+2024-06-03,1581,sale,Spices & Masalas,cash
+2024-06-03,861,expense,Store Rent,cash
+2024-06-04,968,sale,Soaps & Detergents,card
+2024-06-04,351,sale,Spices & Masalas,cash
+2024-06-04,1240,sale,Grains & Atta,cash
+2024-06-04,276,sale,Packaged Snacks,cash
+2024-06-04,896,sale,Spices & Masalas,cash
+2024-06-05,845,sale,Soaps & Detergents,cash
+2024-06-05,1232,sale,Soaps & Detergents,cash
+2024-06-05,1993,sale,Edible Oils,card
+2024-06-05,1094,sale,Edible Oils,cash
+2024-06-05,1353,sale,Dairy & Milk,upi
+2024-06-05,872,sale,Packaged Snacks,upi
+2024-06-06,1824,sale,Packaged Snacks,cash
+2024-06-06,873,sale,Grains & Atta,upi
+2024-06-06,901,sale,Soaps & Detergents,card
+2024-06-06,549,sale,Packaged Snacks,upi
+2024-06-06,607,sale,Spices & Masalas,cash
+2024-06-06,1535,sale,Soaps & Detergents,cash
+2024-06-06,644,expense,Packaging Material,cash
+2024-06-07,1406,sale,Spices & Masalas,cash
+2024-06-07,1667,sale,Packaged Snacks,cash
+2024-06-07,1781,sale,Packaged Snacks,cash
+2024-06-08,2431,sale,Spices & Masalas,cash
+2024-06-08,1844,sale,Packaged Snacks,cash
+2024-06-08,641,sale,Soaps & Detergents,upi
+2024-06-08,1169,sale,Dairy & Milk,cash
+2024-06-08,602,sale,Dairy & Milk,card
+2024-06-08,2129,expense,Wholesale Supplier,cash
+2024-06-09,1172,sale,Packaged Snacks,cash
+2024-06-09,1443,sale,Soaps & Detergents,cash
+2024-06-09,1265,sale,Spices & Masalas,cash
+2024-06-09,1609,sale,Edible Oils,cash
+2024-06-09,1812,sale,Dairy & Milk,cash
+2024-06-09,927,expense,Helper Wages,cash
+2024-06-10,1511,sale,Dairy & Milk,cash
+2024-06-10,902,sale,Grains & Atta,upi
+2024-06-10,732,sale,Packaged Snacks,cash
+2024-06-11,1104,sale,Packaged Snacks,cash
+2024-06-11,1162,sale,Edible Oils,upi
+2024-06-11,1190,sale,Packaged Snacks,cash
+2024-06-11,903,sale,Soaps & Detergents,cash
+2024-06-11,665,sale,Edible Oils,card
+2024-06-11,772,sale,Spices & Masalas,upi
+2024-06-12,510,sale,Dairy & Milk,cash
+2024-06-12,1482,sale,Soaps & Detergents,card
+2024-06-12,1705,sale,Edible Oils,upi
+2024-06-13,961,sale,Packaged Snacks,upi
+2024-06-13,1489,sale,Packaged Snacks,card
+2024-06-13,1401,sale,Dairy & Milk,upi
+2024-06-13,642,sale,Packaged Snacks,cash
+2024-06-13,536,sale,Edible Oils,upi
+2024-06-14,1145,sale,Soaps & Detergents,cash
+2024-06-14,836,sale,Grains & Atta,cash
+2024-06-14,865,sale,Packaged Snacks,upi
+2024-06-14,1546,sale,Soaps & Detergents,upi
+2024-06-14,713,sale,Edible Oils,cash
+2024-06-14,1109,sale,Packaged Snacks,cash
+2024-06-14,947,expense,Store Rent,cash
+2024-06-15,1116,sale,Edible Oils,cash
+2024-06-15,1937,sale,Packaged Snacks,cash
+2024-06-15,548,sale,Grains & Atta,card
+2024-06-15,689,sale,Spices & Masalas,cash
+2024-06-15,1624,sale,Grains & Atta,upi
+2024-06-15,1017,expense,Store Rent,upi
+2024-06-16,744,sale,Spices & Masalas,upi
+2024-06-16,1967,sale,Soaps & Detergents,cash
+2024-06-16,2277,sale,Edible Oils,cash
+2024-06-16,707,sale,Grains & Atta,cash
+2024-06-16,1107,sale,Soaps & Detergents,upi
+2024-06-16,2107,expense,Wholesale Supplier,cash
+2024-06-17,854,sale,Soaps & Detergents,cash
+2024-06-17,727,sale,Spices & Masalas,card
+2024-06-17,826,sale,Edible Oils,upi
+2024-06-17,1896,sale,Soaps & Detergents,upi
+2024-06-18,774,sale,Soaps & Detergents,cash
+2024-06-18,974,sale,Edible Oils,cash
+2024-06-18,1266,sale,Spices & Masalas,upi
+2024-06-18,580,sale,Edible Oils,upi
+2024-06-19,1804,sale,Dairy & Milk,upi
+2024-06-19,1061,sale,Packaged Snacks,cash
+2024-06-19,1738,sale,Edible Oils,upi
+2024-06-19,1506,sale,Grains & Atta,cash
+2024-06-20,839,sale,Edible Oils,upi
+2024-06-20,1581,sale,Soaps & Detergents,cash
+2024-06-20,1754,sale,Spices & Masalas,cash
+2024-06-20,1154,sale,Grains & Atta,cash
+2024-06-21,1073,sale,Packaged Snacks,upi
+2024-06-21,1547,sale,Edible Oils,cash
+2024-06-21,668,sale,Grains & Atta,cash
+2024-06-21,1000,sale,Soaps & Detergents,upi
+2024-06-21,1493,sale,Grains & Atta,cash
+2024-06-21,1610,expense,Store Rent,upi
+2024-06-22,2503,sale,Spices & Masalas,cash
+2024-06-22,755,sale,Edible Oils,cash
+2024-06-22,1577,sale,Dairy & Milk,cash
+2024-06-22,2095,sale,Edible Oils,cash
+2024-06-22,1818,sale,Grains & Atta,upi
+2024-06-23,791,sale,Grains & Atta,cash
+2024-06-23,1274,sale,Dairy & Milk,cash
+2024-06-23,2678,sale,Edible Oils,upi
+2024-06-23,1277,sale,Edible Oils,cash
+2024-06-23,2126,sale,Soaps & Detergents,cash
+2024-06-23,981,sale,Soaps & Detergents,cash
+2024-06-23,498,expense,Helper Wages,cash
+2024-06-24,1667,sale,Packaged Snacks,card
+2024-06-24,680,sale,Grains & Atta,upi
+2024-06-24,1479,sale,Dairy & Milk,upi
+2024-06-24,786,sale,Grains & Atta,upi
+2024-06-24,1364,sale,Edible Oils,cash
+2024-06-24,1875,sale,Edible Oils,upi
+2024-06-24,2073,expense,Packaging Material,cash
+2024-06-25,599,sale,Soaps & Detergents,upi
+2024-06-25,521,sale,Spices & Masalas,cash
+2024-06-25,450,sale,Edible Oils,cash
+2024-06-25,1884,expense,Wholesale Supplier,cash
+2024-06-26,738,sale,Packaged Snacks,cash
+2024-06-26,1391,sale,Packaged Snacks,upi
+2024-06-26,653,sale,Spices & Masalas,upi
+2024-06-26,954,sale,Dairy & Milk,cash
+2024-06-26,1619,sale,Packaged Snacks,cash
+2024-06-26,803,sale,Packaged Snacks,cash
+2024-06-27,1081,sale,Dairy & Milk,cash
+2024-06-27,465,sale,Edible Oils,cash
+2024-06-27,1841,sale,Soaps & Detergents,upi
+2024-06-27,1696,sale,Grains & Atta,upi
+2024-06-27,1216,expense,Packaging Material,cash
+2024-06-28,1323,sale,Grains & Atta,upi
+2024-06-28,405,sale,Soaps & Detergents,cash
+2024-06-28,990,sale,Soaps & Detergents,card
+2024-06-28,846,sale,Edible Oils,card
+2024-06-28,432,expense,Packaging Material,cash
+2024-06-29,1551,sale,Soaps & Detergents,cash
+2024-06-29,2083,sale,Edible Oils,card
+2024-06-29,2338,sale,Packaged Snacks,cash
+2024-06-29,2506,sale,Grains & Atta,cash
+2024-06-29,1577,expense,Packaging Material,cash
+2024-06-30,1974,sale,Spices & Masalas,card
+2024-06-30,2628,sale,Soaps & Detergents,card
+2024-06-30,2292,sale,Grains & Atta,cash
+2024-06-30,2684,sale,Grains & Atta,cash
+2024-06-30,2427,sale,Soaps & Detergents,upi
+2024-06-30,1247,sale,Spices & Masalas,cash
+2024-07-01,800,sale,Grains & Atta,cash
+2024-07-01,1559,sale,Grains & Atta,cash
+2024-07-01,783,sale,Edible Oils,cash
+2024-07-01,1416,sale,Spices & Masalas,cash
+2024-07-01,1668,sale,Soaps & Detergents,cash
+2024-07-01,14000,expense,Store Rent,upi
+2024-07-01,8000,expense,Helper Wages,cash
+2024-07-02,525,sale,Edible Oils,card
+2024-07-02,746,sale,Packaged Snacks,upi
+2024-07-02,916,sale,Dairy & Milk,cash
+2024-07-02,810,sale,Spices & Masalas,cash
+2024-07-02,878,sale,Grains & Atta,upi
+2024-07-02,1087,sale,Packaged Snacks,upi
+2024-07-03,1342,sale,Dairy & Milk,card
+2024-07-03,690,sale,Soaps & Detergents,upi
+2024-07-03,1306,sale,Edible Oils,upi
+2024-07-03,1833,sale,Soaps & Detergents,cash
+2024-07-03,522,expense,Transport & Delivery,cash
+2024-07-04,1238,sale,Grains & Atta,upi
+2024-07-04,1414,sale,Grains & Atta,cash
+2024-07-04,1721,sale,Packaged Snacks,cash
+2024-07-05,479,sale,Edible Oils,upi
+2024-07-05,1761,sale,Edible Oils,cash
+2024-07-05,1341,sale,Packaged Snacks,upi
+2024-07-05,711,sale,Grains & Atta,upi
+2024-07-05,1572,sale,Dairy & Milk,card
+2024-07-06,1828,sale,Packaged Snacks,upi
+2024-07-06,2654,sale,Spices & Masalas,upi
+2024-07-06,1281,sale,Spices & Masalas,cash
+2024-07-06,2520,sale,Dairy & Milk,cash
+2024-07-06,2118,expense,Packaging Material,upi
+2024-07-07,1947,sale,Edible Oils,card
+2024-07-07,1080,sale,Spices & Masalas,cash
+2024-07-07,2583,sale,Dairy & Milk,cash
+2024-07-07,740,expense,Store Rent,upi
+2024-07-08,905,sale,Edible Oils,cash
+2024-07-08,1113,sale,Dairy & Milk,upi
+2024-07-08,1839,sale,Edible Oils,cash
+2024-07-08,1821,sale,Edible Oils,upi
+2024-07-08,1110,sale,Edible Oils,cash
+2024-07-08,1538,expense,Packaging Material,cash
+2024-07-09,265,sale,Soaps & Detergents,cash
+2024-07-09,599,sale,Grains & Atta,cash
+2024-07-09,935,sale,Dairy & Milk,cash
+2024-07-09,1609,expense,Wholesale Supplier,upi
+2024-07-10,846,sale,Edible Oils,cash
+2024-07-10,959,sale,Edible Oils,cash
+2024-07-10,1705,sale,Grains & Atta,cash
+2024-07-10,1942,expense,Transport & Delivery,upi
+2024-07-11,678,sale,Edible Oils,upi
+2024-07-11,1603,sale,Spices & Masalas,cash
+2024-07-11,1001,sale,Grains & Atta,card
+2024-07-11,1317,sale,Dairy & Milk,cash
+2024-07-12,1255,sale,Edible Oils,upi
+2024-07-12,1961,sale,Edible Oils,upi
+2024-07-12,1239,sale,Spices & Masalas,card
+2024-07-12,755,expense,Transport & Delivery,cash
+2024-07-13,1697,sale,Packaged Snacks,cash
+2024-07-13,1342,sale,Packaged Snacks,upi
+2024-07-13,2422,sale,Spices & Masalas,cash
+2024-07-13,1813,sale,Packaged Snacks,cash
+2024-07-13,2114,sale,Edible Oils,cash
+2024-07-14,1466,sale,Grains & Atta,cash
+2024-07-14,644,sale,Grains & Atta,cash
+2024-07-14,2194,sale,Edible Oils,cash
+2024-07-14,2144,expense,Helper Wages,cash
+2024-07-15,1598,sale,Dairy & Milk,upi
+2024-07-15,822,sale,Grains & Atta,upi
+2024-07-15,1004,sale,Grains & Atta,card
+2024-07-15,469,sale,Soaps & Detergents,upi
+2024-07-15,1465,expense,Transport & Delivery,cash
+2024-07-16,488,sale,Spices & Masalas,cash
+2024-07-16,694,sale,Grains & Atta,cash
+2024-07-16,314,sale,Packaged Snacks,cash
+2024-07-16,676,sale,Grains & Atta,card
+2024-07-16,1056,sale,Dairy & Milk,cash
+2024-07-16,457,sale,Soaps & Detergents,upi
+2024-07-17,1819,sale,Dairy & Milk,upi
+2024-07-17,1214,sale,Soaps & Detergents,cash
+2024-07-17,402,sale,Spices & Masalas,card
+2024-07-17,1891,sale,Dairy & Milk,cash
+2024-07-17,417,sale,Spices & Masalas,upi
+2024-07-17,1412,sale,Grains & Atta,upi
+2024-07-18,423,sale,Spices & Masalas,cash
+2024-07-18,1240,sale,Packaged Snacks,cash
+2024-07-18,838,sale,Spices & Masalas,card
+2024-07-18,1290,sale,Dairy & Milk,cash
+2024-07-18,1696,sale,Grains & Atta,card
+2024-07-18,939,sale,Spices & Masalas,card
+2024-07-19,976,sale,Dairy & Milk,cash
+2024-07-19,1420,sale,Edible Oils,upi
+2024-07-19,1452,sale,Edible Oils,cash
+2024-07-20,1887,sale,Packaged Snacks,upi
+2024-07-20,1023,sale,Packaged Snacks,cash
+2024-07-20,2566,sale,Dairy & Milk,cash
+2024-07-20,1850,sale,Edible Oils,upi
+2024-07-20,1461,sale,Packaged Snacks,cash
+2024-07-20,1653,expense,Wholesale Supplier,cash
+2024-07-21,1940,sale,Spices & Masalas,upi
+2024-07-21,1588,sale,Soaps & Detergents,cash
+2024-07-21,1531,sale,Edible Oils,cash
+2024-07-21,960,sale,Spices & Masalas,card
+2024-07-21,1474,sale,Spices & Masalas,card
+2024-07-21,1243,expense,Transport & Delivery,cash
+2024-07-22,1677,sale,Packaged Snacks,upi
+2024-07-22,968,sale,Spices & Masalas,cash
+2024-07-22,1918,sale,Soaps & Detergents,cash
+2024-07-22,874,sale,Dairy & Milk,cash
+2024-07-22,722,expense,Wholesale Supplier,upi
+2024-07-23,527,sale,Grains & Atta,upi
+2024-07-23,353,sale,Soaps & Detergents,cash
+2024-07-23,731,sale,Packaged Snacks,upi
+2024-07-23,891,expense,Helper Wages,upi
+2024-07-24,1465,sale,Packaged Snacks,cash
+2024-07-24,1357,sale,Spices & Masalas,cash
+2024-07-24,1057,sale,Packaged Snacks,cash
+2024-07-24,1487,sale,Packaged Snacks,cash
+2024-07-24,1431,sale,Soaps & Detergents,upi
+2024-07-25,1849,sale,Edible Oils,cash
+2024-07-25,1021,sale,Spices & Masalas,cash
+2024-07-25,496,sale,Edible Oils,cash
+2024-07-25,607,sale,Soaps & Detergents,cash
+2024-07-25,780,sale,Dairy & Milk,cash
+2024-07-25,1950,sale,Packaged Snacks,upi
+2024-07-26,825,sale,Soaps & Detergents,cash
+2024-07-26,809,sale,Grains & Atta,upi
+2024-07-26,1603,sale,Spices & Masalas,cash
+2024-07-26,804,sale,Edible Oils,upi
+2024-07-26,839,sale,Spices & Masalas,upi
+2024-07-26,1403,sale,Edible Oils,cash
+2024-07-27,2610,sale,Soaps & Detergents,cash
+2024-07-27,2431,sale,Soaps & Detergents,upi
+2024-07-27,1064,sale,Grains & Atta,upi
+2024-07-27,1386,sale,Edible Oils,upi
+2024-07-27,1010,expense,Packaging Material,cash
+2024-07-28,2627,sale,Spices & Masalas,upi
+2024-07-28,1688,sale,Dairy & Milk,cash
+2024-07-28,2435,sale,Dairy & Milk,cash
+2024-07-28,2692,sale,Edible Oils,cash
+2024-07-28,723,expense,Store Rent,upi
+2024-07-29,1428,sale,Packaged Snacks,upi
+2024-07-29,680,sale,Edible Oils,cash
+2024-07-29,1348,sale,Packaged Snacks,cash
+2024-07-29,1161,sale,Packaged Snacks,upi
+2024-07-29,747,sale,Soaps & Detergents,upi
+2024-07-29,1388,sale,Grains & Atta,cash
+2024-07-29,1922,expense,Wholesale Supplier,cash
+2024-07-30,549,sale,Grains & Atta,cash
+2024-07-30,332,sale,Soaps & Detergents,cash
+2024-07-30,505,sale,Edible Oils,upi
+2024-07-30,807,sale,Spices & Masalas,card
+2024-07-30,437,sale,Grains & Atta,upi
+2024-07-30,1079,sale,Edible Oils,cash
+2024-07-30,777,expense,Helper Wages,cash
+2024-07-31,857,sale,Edible Oils,upi
+2024-07-31,1573,sale,Spices & Masalas,cash
+2024-07-31,1773,sale,Spices & Masalas,upi
+2024-08-01,712,sale,Grains & Atta,cash
+2024-08-01,1395,sale,Dairy & Milk,card
+2024-08-01,1949,sale,Soaps & Detergents,card
+2024-08-01,788,sale,Soaps & Detergents,cash
+2024-08-01,1279,expense,Packaging Material,upi
+2024-08-01,14000,expense,Store Rent,upi
+2024-08-01,8000,expense,Helper Wages,cash
+2024-08-02,1597,sale,Soaps & Detergents,card
+2024-08-02,1685,sale,Spices & Masalas,upi
+2024-08-02,1847,sale,Packaged Snacks,upi
+2024-08-02,466,sale,Packaged Snacks,cash
+2024-08-02,1582,sale,Dairy & Milk,upi
+2024-08-02,754,sale,Soaps & Detergents,cash
+2024-08-02,613,expense,Store Rent,upi
+2024-08-03,1281,sale,Dairy & Milk,card
+2024-08-03,2147,sale,Dairy & Milk,cash
+2024-08-03,907,sale,Edible Oils,card
+2024-08-03,2056,sale,Soaps & Detergents,upi
+2024-08-03,2041,sale,Soaps & Detergents,cash
+2024-08-03,1100,sale,Packaged Snacks,cash
+2024-08-04,1754,sale,Soaps & Detergents,cash
+2024-08-04,2500,sale,Spices & Masalas,upi
+2024-08-04,937,sale,Dairy & Milk,cash
+2024-08-05,4152,sale,Grains & Atta,cash
+2024-08-05,3324,sale,Packaged Snacks,cash
+2024-08-05,3377,sale,Spices & Masalas,cash
+2024-08-05,1253,sale,Grains & Atta,cash
+2024-08-05,2039,expense,Transport & Delivery,cash
+2024-08-06,1454,sale,Edible Oils,cash
+2024-08-06,1279,sale,Soaps & Detergents,cash
+2024-08-06,1824,sale,Spices & Masalas,cash
+2024-08-06,780,sale,Spices & Masalas,cash
+2024-08-07,1519,sale,Edible Oils,card
+2024-08-07,2213,sale,Dairy & Milk,cash
+2024-08-07,2806,sale,Packaged Snacks,cash
+2024-08-07,1156,expense,Wholesale Supplier,cash
+2024-08-08,1471,sale,Grains & Atta,cash
+2024-08-08,1824,sale,Packaged Snacks,card
+2024-08-08,4330,sale,Edible Oils,cash
+2024-08-08,3394,sale,Dairy & Milk,card
+2024-08-08,1721,sale,Soaps & Detergents,upi
+2024-08-08,1453,expense,Electricity & Utility,cash
+2024-08-09,1932,sale,Packaged Snacks,cash
+2024-08-09,2386,sale,Packaged Snacks,cash
+2024-08-09,2863,sale,Packaged Snacks,cash
+2024-08-09,2359,sale,Dairy & Milk,cash
+2024-08-09,3958,sale,Grains & Atta,cash
+2024-08-10,3668,sale,Grains & Atta,upi
+2024-08-10,1950,sale,Dairy & Milk,upi
+2024-08-10,2453,sale,Edible Oils,cash
+2024-08-10,5281,sale,Edible Oils,cash
+2024-08-10,5570,sale,Edible Oils,cash
+2024-08-10,1587,expense,Transport & Delivery,upi
+2024-08-11,5446,sale,Edible Oils,cash
+2024-08-11,2249,sale,Grains & Atta,card
+2024-08-11,4996,sale,Packaged Snacks,cash
+2024-08-11,2799,sale,Edible Oils,upi
+2024-08-11,2926,sale,Packaged Snacks,card
+2024-08-11,5832,sale,Soaps & Detergents,cash
+2024-08-11,2004,expense,Store Rent,cash
+2024-08-12,2594,sale,Dairy & Milk,upi
+2024-08-12,4248,sale,Edible Oils,cash
+2024-08-12,4546,sale,Packaged Snacks,upi
+2024-08-12,1218,expense,Helper Wages,upi
+2024-08-13,588,sale,Dairy & Milk,cash
+2024-08-13,772,sale,Dairy & Milk,upi
+2024-08-13,835,sale,Edible Oils,card
+2024-08-13,918,sale,Soaps & Detergents,cash
+2024-08-13,425,sale,Grains & Atta,cash
+2024-08-13,1063,sale,Grains & Atta,cash
+2024-08-13,867,expense,Electricity & Utility,cash
+2024-08-14,1582,sale,Spices & Masalas,cash
+2024-08-14,1154,sale,Packaged Snacks,cash
+2024-08-14,1982,sale,Edible Oils,cash
+2024-08-14,16931,expense,Wholesale Supplier,upi
+2024-08-15,455,sale,Dairy & Milk,upi
+2024-08-15,1546,sale,Packaged Snacks,cash
+2024-08-15,1048,sale,Soaps & Detergents,cash
+2024-08-15,16977,expense,Wholesale Supplier,upi
+2024-08-16,1913,sale,Packaged Snacks,cash
+2024-08-16,562,sale,Spices & Masalas,upi
+2024-08-16,1998,sale,Packaged Snacks,cash
+2024-08-16,1061,sale,Grains & Atta,upi
+2024-08-17,2515,sale,Spices & Masalas,upi
+2024-08-17,1466,sale,Dairy & Milk,upi
+2024-08-17,999,sale,Dairy & Milk,upi
+2024-08-18,2569,sale,Dairy & Milk,card
+2024-08-18,1319,sale,Packaged Snacks,cash
+2024-08-18,1323,sale,Edible Oils,card
+2024-08-18,2190,sale,Packaged Snacks,cash
+2024-08-18,519,expense,Helper Wages,cash
+2024-08-19,1622,sale,Soaps & Detergents,upi
+2024-08-19,1151,sale,Edible Oils,upi
+2024-08-19,1809,sale,Dairy & Milk,upi
+2024-08-19,1271,expense,Transport & Delivery,upi
+2024-08-20,457,sale,Packaged Snacks,cash
+2024-08-20,1178,sale,Spices & Masalas,upi
+2024-08-20,1253,sale,Dairy & Milk,cash
+2024-08-20,1011,sale,Edible Oils,cash
+2024-08-20,424,sale,Edible Oils,cash
+2024-08-21,1254,sale,Dairy & Milk,cash
+2024-08-21,1123,sale,Dairy & Milk,cash
+2024-08-21,872,sale,Grains & Atta,card
+2024-08-21,616,sale,Packaged Snacks,cash
+2024-08-21,668,sale,Spices & Masalas,cash
+2024-08-21,1259,sale,Edible Oils,card
+2024-08-21,1688,expense,Packaging Material,cash
+2024-08-22,875,sale,Grains & Atta,card
+2024-08-22,1646,sale,Soaps & Detergents,cash
+2024-08-22,826,sale,Dairy & Milk,upi
+2024-08-23,1909,sale,Spices & Masalas,cash
+2024-08-23,949,sale,Spices & Masalas,cash
+2024-08-23,763,sale,Grains & Atta,upi
+2024-08-24,938,sale,Dairy & Milk,cash
+2024-08-24,992,sale,Dairy & Milk,card
+2024-08-24,745,sale,Packaged Snacks,cash
+2024-08-24,945,sale,Dairy & Milk,cash
+2024-08-24,2627,sale,Dairy & Milk,cash
+2024-08-24,2110,sale,Dairy & Milk,card
+2024-08-24,1604,expense,Wholesale Supplier,upi
+2024-08-25,871,sale,Soaps & Detergents,upi
+2024-08-25,699,sale,Grains & Atta,cash
+2024-08-25,2687,sale,Soaps & Detergents,cash
+2024-08-25,2156,sale,Dairy & Milk,cash
+2024-08-25,794,sale,Spices & Masalas,cash
+2024-08-25,1603,expense,Electricity & Utility,cash
+2024-08-26,1395,sale,Edible Oils,upi
+2024-08-26,1538,sale,Grains & Atta,cash
+2024-08-26,1165,sale,Soaps & Detergents,cash
+2024-08-27,1063,sale,Edible Oils,cash
+2024-08-27,1241,sale,Dairy & Milk,cash
+2024-08-27,1019,sale,Grains & Atta,card
+2024-08-27,1153,sale,Edible Oils,cash
+2024-08-27,1192,sale,Spices & Masalas,cash
+2024-08-27,2043,expense,Electricity & Utility,cash
+2024-08-28,1025,sale,Packaged Snacks,cash
+2024-08-28,1868,sale,Spices & Masalas,cash
+2024-08-28,1809,sale,Packaged Snacks,cash
+2024-08-28,1611,sale,Spices & Masalas,cash
+2024-08-28,1875,sale,Dairy & Milk,upi
+2024-08-29,776,sale,Soaps & Detergents,card
+2024-08-29,1207,sale,Edible Oils,cash
+2024-08-29,552,sale,Spices & Masalas,card
+2024-08-29,447,sale,Soaps & Detergents,upi
+2024-08-29,1223,sale,Soaps & Detergents,cash
+2024-08-30,1420,sale,Dairy & Milk,cash
+2024-08-30,536,sale,Packaged Snacks,cash
+2024-08-30,959,sale,Soaps & Detergents,cash
+2024-08-30,1421,sale,Grains & Atta,cash
+2024-08-31,2236,sale,Dairy & Milk,cash
+2024-08-31,1088,sale,Edible Oils,cash
+2024-08-31,2672,sale,Soaps & Detergents,upi
+2024-08-31,1466,expense,Electricity & Utility,cash
+2024-09-01,2589,sale,Dairy & Milk,cash
+2024-09-01,2526,sale,Soaps & Detergents,cash
+2024-09-01,660,sale,Edible Oils,upi
+2024-09-01,1590,sale,Soaps & Detergents,cash
+2024-09-01,2337,sale,Packaged Snacks,cash
+2024-09-01,14000,expense,Store Rent,upi
+2024-09-01,8000,expense,Helper Wages,cash
+2024-09-02,1491,sale,Soaps & Detergents,upi
+2024-09-02,1070,sale,Grains & Atta,cash
+2024-09-02,1698,sale,Dairy & Milk,upi
+2024-09-02,1561,sale,Edible Oils,cash
+2024-09-02,1829,sale,Edible Oils,upi
+2024-09-02,1615,sale,Dairy & Milk,upi
+2024-09-02,409,expense,Store Rent,cash
+2024-09-03,540,sale,Edible Oils,cash
+2024-09-03,912,sale,Grains & Atta,cash
+2024-09-03,815,sale,Grains & Atta,cash
+2024-09-03,458,sale,Soaps & Detergents,cash
+2024-09-03,438,sale,Soaps & Detergents,cash
+2024-09-03,592,sale,Grains & Atta,upi
+2024-09-04,623,sale,Edible Oils,upi
+2024-09-04,613,sale,Soaps & Detergents,cash
+2024-09-04,1069,sale,Packaged Snacks,upi
+2024-09-04,908,sale,Grains & Atta,cash
+2024-09-04,1056,sale,Soaps & Detergents,cash
+2024-09-05,1669,sale,Edible Oils,card
+2024-09-05,1404,sale,Grains & Atta,card
+2024-09-05,1845,sale,Grains & Atta,cash
+2024-09-05,1912,sale,Packaged Snacks,cash
+2024-09-05,1125,sale,Dairy & Milk,cash
+2024-09-05,1968,expense,Store Rent,cash
+2024-09-06,1260,sale,Dairy & Milk,upi
+2024-09-06,920,sale,Soaps & Detergents,upi
+2024-09-06,1877,sale,Packaged Snacks,cash
+2024-09-06,984,sale,Dairy & Milk,upi
+2024-09-06,1674,sale,Packaged Snacks,upi
+2024-09-06,807,sale,Grains & Atta,upi
+2024-09-07,1974,sale,Soaps & Detergents,upi
+2024-09-07,2033,sale,Packaged Snacks,cash
+2024-09-07,1119,sale,Spices & Masalas,cash
+2024-09-07,1386,sale,Soaps & Detergents,cash
+2024-09-07,2165,sale,Soaps & Detergents,cash
+2024-09-07,557,expense,Electricity & Utility,cash
+2024-09-08,2684,sale,Dairy & Milk,upi
+2024-09-08,629,sale,Spices & Masalas,upi
+2024-09-08,1932,sale,Grains & Atta,card
+2024-09-08,922,sale,Grains & Atta,cash
+2024-09-08,979,sale,Spices & Masalas,upi
+2024-09-08,1080,sale,Grains & Atta,cash
+2024-09-09,1804,sale,Spices & Masalas,cash
+2024-09-09,1786,sale,Spices & Masalas,upi
+2024-09-09,693,sale,Soaps & Detergents,cash
+2024-09-09,1288,sale,Edible Oils,cash
+2024-09-09,1274,sale,Dairy & Milk,cash
+2024-09-09,1683,expense,Helper Wages,cash
+2024-09-10,807,sale,Edible Oils,upi
+2024-09-10,837,sale,Grains & Atta,cash
+2024-09-10,389,sale,Dairy & Milk,cash
+2024-09-10,503,sale,Grains & Atta,card
+2024-09-10,673,sale,Edible Oils,upi
+2024-09-10,1878,expense,Transport & Delivery,cash
+2024-09-11,1913,sale,Spices & Masalas,cash
+2024-09-11,1181,sale,Dairy & Milk,cash
+2024-09-11,1466,sale,Edible Oils,cash
+2024-09-11,1469,sale,Packaged Snacks,cash
+2024-09-11,617,sale,Grains & Atta,cash
+2024-09-11,1104,sale,Grains & Atta,card
+2024-09-11,784,expense,Packaging Material,cash
+2024-09-12,635,sale,Grains & Atta,cash
+2024-09-12,1554,sale,Edible Oils,card
+2024-09-12,969,sale,Packaged Snacks,cash
+2024-09-12,616,sale,Soaps & Detergents,cash
+2024-09-12,565,sale,Grains & Atta,cash
+2024-09-12,1371,expense,Helper Wages,cash
+2024-09-13,934,sale,Dairy & Milk,card
+2024-09-13,988,sale,Dairy & Milk,cash
+2024-09-13,726,sale,Soaps & Detergents,cash
+2024-09-14,3577,sale,Spices & Masalas,upi
+2024-09-14,4572,sale,Packaged Snacks,card
+2024-09-14,1455,sale,Edible Oils,upi
+2024-09-15,5981,sale,Spices & Masalas,cash
+2024-09-15,6370,sale,Packaged Snacks,cash
+2024-09-15,2485,sale,Grains & Atta,card
+2024-09-15,3768,sale,Grains & Atta,upi
+2024-09-15,3622,sale,Dairy & Milk,upi
+2024-09-15,4439,sale,Dairy & Milk,upi
+2024-09-16,3108,sale,Packaged Snacks,cash
+2024-09-16,1560,sale,Packaged Snacks,cash
+2024-09-16,3254,sale,Edible Oils,cash
+2024-09-16,3581,sale,Dairy & Milk,cash
+2024-09-17,1214,sale,Grains & Atta,cash
+2024-09-17,2555,sale,Grains & Atta,upi
+2024-09-17,2952,sale,Spices & Masalas,upi
+2024-09-17,1467,expense,Store Rent,cash
+2024-09-18,1903,sale,Packaged Snacks,upi
+2024-09-18,4644,sale,Grains & Atta,upi
+2024-09-18,1512,sale,Grains & Atta,upi
+2024-09-18,1346,expense,Wholesale Supplier,upi
+2024-09-19,2813,sale,Spices & Masalas,card
+2024-09-19,3869,sale,Edible Oils,cash
+2024-09-19,4334,sale,Soaps & Detergents,cash
+2024-09-19,3576,sale,Edible Oils,cash
+2024-09-19,1221,expense,Transport & Delivery,upi
+2024-09-20,1260,sale,Soaps & Detergents,cash
+2024-09-20,546,sale,Grains & Atta,cash
+2024-09-20,1801,sale,Edible Oils,card
+2024-09-20,1015,sale,Dairy & Milk,upi
+2024-09-20,1139,expense,Store Rent,upi
+2024-09-21,586,sale,Edible Oils,cash
+2024-09-21,1107,sale,Grains & Atta,upi
+2024-09-21,1677,sale,Soaps & Detergents,card
+2024-09-21,1301,sale,Soaps & Detergents,cash
+2024-09-21,23949,expense,Wholesale Supplier,upi
+2024-09-22,2530,sale,Dairy & Milk,cash
+2024-09-22,2187,sale,Edible Oils,cash
+2024-09-22,2450,sale,Spices & Masalas,upi
+2024-09-22,24349,expense,Wholesale Supplier,upi
+2024-09-23,1411,sale,Edible Oils,cash
+2024-09-23,1151,sale,Dairy & Milk,cash
+2024-09-23,1487,sale,Spices & Masalas,cash
+2024-09-23,764,sale,Soaps & Detergents,cash
+2024-09-23,1888,sale,Soaps & Detergents,cash
+2024-09-23,2115,expense,Electricity & Utility,upi
+2024-09-24,605,sale,Dairy & Milk,upi
+2024-09-24,302,sale,Spices & Masalas,upi
+2024-09-24,791,sale,Packaged Snacks,upi
+2024-09-24,1925,expense,Helper Wages,cash
+2024-09-25,1039,sale,Grains & Atta,cash
+2024-09-25,1544,sale,Edible Oils,card
+2024-09-25,1746,sale,Edible Oils,card
+2024-09-25,1564,sale,Spices & Masalas,cash
+2024-09-25,1527,expense,Packaging Material,cash
+2024-09-26,1768,sale,Packaged Snacks,cash
+2024-09-26,1097,sale,Dairy & Milk,card
+2024-09-26,470,sale,Edible Oils,upi
+2024-09-26,1497,sale,Spices & Masalas,cash
+2024-09-26,725,expense,Wholesale Supplier,cash
+2024-09-27,464,sale,Spices & Masalas,upi
+2024-09-27,990,sale,Packaged Snacks,cash
+2024-09-27,568,sale,Edible Oils,cash
+2024-09-27,411,expense,Wholesale Supplier,cash
+2024-09-28,2109,sale,Grains & Atta,upi
+2024-09-28,1365,sale,Spices & Masalas,cash
+2024-09-28,593,sale,Edible Oils,cash
