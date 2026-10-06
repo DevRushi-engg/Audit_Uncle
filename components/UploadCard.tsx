@@ -2,12 +2,13 @@ import React, { useRef, useState } from "react";
 
 interface UploadCardProps {
   onFileSelect: (file: File) => void;
+  onScanBillClick?: () => void;
   fileName?: string;
   rowCount?: number;
   disabled?: boolean;
 }
 
-export function UploadCard({ onFileSelect, fileName, rowCount, disabled }: UploadCardProps) {
+export function UploadCard({ onFileSelect, onScanBillClick, fileName, rowCount, disabled }: UploadCardProps) {
   const [isDragOver, setIsDragOver] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -100,6 +101,25 @@ export function UploadCard({ onFileSelect, fileName, rowCount, disabled }: Uploa
             </p>
           </div>
         )}
+      </div>
+
+      {/* Scan Paper Bill / Khata Option */}
+      <div className="mt-2.5">
+        <button
+          type="button"
+          disabled={disabled}
+          onClick={(e) => {
+            e.stopPropagation();
+            onScanBillClick?.();
+          }}
+          className="w-full py-2.5 px-3 bg-[#FFFDF7] hover:bg-[#F5EEDB] text-[#1A1A1A] border-1.5 border-[#1A1A1A] rounded-lg font-mono font-bold text-xs flex items-center justify-center gap-2 shadow-[2px_2px_0px_#1A1A1A] active:translate-x-0.5 active:translate-y-0.5 transition-all cursor-pointer"
+        >
+          <span>📷</span>
+          <span>Scan Paper Bill or Khata</span>
+          <span className="text-[9px] px-1.5 py-0.5 rounded bg-[#E8A317] text-[#1A1A1A] border border-[#1A1A1A] font-bold">
+            VISION AI
+          </span>
+        </button>
       </div>
 
       {/* Zero upload guarantee */}

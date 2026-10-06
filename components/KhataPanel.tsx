@@ -18,6 +18,7 @@ interface KhataPanelProps {
   businessType: BusinessTypeId;
   narratorLanguage: NarratorLanguageId;
   onFileSelect: (file: File) => void;
+  onScanBillClick?: () => void;
   onSelectSample: (id: string) => void;
   onMappingChange: (header: string, role: ColumnRole) => void;
   onOpeningCashChange: (val: number) => void;
@@ -38,6 +39,7 @@ export function KhataPanel({
   businessType,
   narratorLanguage,
   onFileSelect,
+  onScanBillClick,
   onSelectSample,
   onMappingChange,
   onOpeningCashChange,
@@ -60,6 +62,7 @@ export function KhataPanel({
         {/* Upload Dropzone for real-world user CSVs */}
         <UploadCard
           onFileSelect={onFileSelect}
+          onScanBillClick={onScanBillClick}
           fileName={fileName}
           rowCount={rowCount}
           disabled={isAnalyzing}

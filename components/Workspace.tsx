@@ -40,6 +40,7 @@ import { AskPanel } from "./AskPanel";
 import { MobileTabBar, type MobileTab } from "./MobileTabBar";
 import { TallyStrip } from "./TallyStrip";
 import { Footer } from "./Footer";
+import { ScanBillModal } from "./ScanBillModal";
 import type { AnswerItem } from "./AnswerCard";
 import type { AiStatusType } from "./ModelStatusChip";
 
@@ -84,6 +85,28 @@ export const Workspace: React.FC = () => {
   // State 7: Mobile Navigation
   const [activeTab, setActiveTab] = useState<MobileTab>("khata");
   const [, startTransition] = useTransition();
+
+  // State 8: Live Bill / Khata Scanner Modal
+  const [isScanModalOpen, setIsScanModalOpen] = useState(false);
+
+  // Handlers: Scanned CSV Data Ingestion
+  const handleParsedCsvText = (csvText: string, fileName: string) => {
+    try {
+      setErrorMessage(undefined);
+      const { headers: parsedHeaders, rows: parsedRows } = parseCsvText(csvText);
+      const detection = detectMapping(parsedHeaders, parsedRows);
+
+      setFileMeta({ name: fileName, sizeMB: +(csvText.length / (1024 * 1024)).toFixed(2) });
+      setHeaders(parsedHeaders);
+      setRawRows(parsedRows);
+      setMapping(detection.mapping);
+      setAutoDetected(detection.autoDetected);
+      setReportState("mapping");
+    } catch (err: any) {
+      setErrorMessage(err.message || "Failed to process scanned CSV data.");
+      setReportState("error");
+    }
+  };
 
   // Handlers: File selection
   const handleFileSelect = async (file: File) => {
@@ -349,6 +372,7 @@ export const Workspace: React.FC = () => {
               businessType={businessType}
               narratorLanguage={narratorLanguage}
               onFileSelect={handleFileSelect}
+              onScanBillClick={() => setIsScanModalOpen(true)}
               onSelectSample={handleSelectSample}
               onMappingChange={handleMappingChange}
               onOpeningCashChange={setOpeningCash}
@@ -446,6 +470,7 @@ export const Workspace: React.FC = () => {
               businessType={businessType}
               narratorLanguage={narratorLanguage}
               onFileSelect={handleFileSelect}
+              onScanBillClick={() => setIsScanModalOpen(true)}
               onSelectSample={handleSelectSample}
               onMappingChange={handleMappingChange}
               onOpeningCashChange={setOpeningCash}
@@ -499,6 +524,13 @@ export const Workspace: React.FC = () => {
 
       {/* Footer with MLH Nashik attribution line */}
       <Footer modelStatusText={modelStatusFooterText} />
+
+      {/* Cross-Device / Direct Camera Bill & Khata Scanner Modal */}
+      <ScanBillModal
+        isOpen={isScanModalOpen}
+        onClose={() => setIsScanModalOpen(false)}
+        onParsedCsv={handleParsedCsvText}
+      />
     </div>
   );
 };
